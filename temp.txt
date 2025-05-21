@@ -1,0 +1,11 @@
+https://apprendre.tv5monde.com/fr/exercices/b1-intermediaire/quelle-est-la-place-du-francais-au-yukon
+https://apprendre.tv5monde.com/fr/exercices/b1-intermediaire/le-dessin-pour-lutter-contre-la-desinformation
+
+    Pendant que notre ragoût mijote, on va rajouter le fond de bœuf1. Hop-là ! Tin-tin ! Schhhhhou ! Maintenant que les oignons sont bien dorés, on va les caraméliser. On va ajouter un peu de cannelle. Ouh là là ! (Il sent) Les saveurs de l’Orient ! Un peu de raisins secs, du miel et une petite pincée de sel. Et on laisse bien caraméliser. Après le processus de la caramélisation, on rajoute un petit morceau de beurre pour la dorure.
+    Notre tfaya2 des Touaregs3 est prête. On va la laisser reposer et on passe au gentleman : le couscous.
+    Comme son nom l’indique, le couscous a besoin d’une couscoussière. Il vous suffit de mettre un peu d’eau dans la couscoussière pour avoir la vapeur qui va cuire notre couscous. Alors on a le couscous à base de semoule et le couscous d’orge. On va les mélanger, messieurs-dames. Phase numéro 1, mettre un petit cratère au milieu et mettre de l’huile d’olive. On va travailler les grains4 de semoule avec la main pour qu’ils absorbent les saveurs de l’huile d’olive. Maintenant que notre couscous a absorbé l’huile d’olive, on va le5 mettre prudemment dans la couscoussière. Petite astuce du chef, ne pressez pas le couscous dans la couscoussière pour laisser place à la vapeur. On va le6 remettre directement sur la gamelle et on va attendre 10 minutes pour que ça cuise en première étape. On va jeter un œil à notre semoule pour voir si elle est cuite. On va imbiber notre semoule avec un peu d’eau pour que les graines grossissent. Un peu de sel. J’ai préféré prendre du sel d’Himalaya parce que notre ragoût est assez relevé. Et on la travaille avec les mains. By the way7, vous pouvez refaire cette opération deux ou trois fois. Ça dépendra de la quantité de semoule que vous allez choisir. Et... hop ! À la couscoussière, pour une troisième fois.
+     
+
+ALTER TABLE records RENAME COLUMN media_file TO media_file;
+ALTER TABLE records RENAME COLUMN custom_audio TO custom_media;
+ALTER TABLE records ADD COLUMN attribution TEXT NOT NULL DEFAULT 'no-attribution';

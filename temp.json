@@ -1,0 +1,1454 @@
+{
+    "entries": [
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Prenez_de_l_aspirine.mp3",
+  "question": "Prenez de l'aspirine.",
+  "response": "",
+  "UUID": "7412284",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_leur_ai_dit_d_arr.mp3",
+  "question": "Je leur ai dit d'arrêter.",
+  "response": "",
+  "UUID": "10944373",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Laisse_nous_en_dehor.mp3",
+  "question": "Laisse-nous en dehors de ça.",
+  "response": "",
+  "UUID": "10494579",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_des_courbatures.mp3",
+  "question": "J'ai des courbatures partout.",
+  "response": "",
+  "UUID": "10282214",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_mange_souvent_à_l.mp3",
+  "question": "Je mange souvent à la maison.",
+  "response": "",
+  "UUID": "10521356",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Le_navire_a_quitté_l.mp3",
+  "question": "Le navire a quitté le port.",
+  "response": "",
+  "UUID": "11234630",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_bouclé_ma_ceint.mp3",
+  "question": "J'ai bouclé ma ceinture.",
+  "response": "",
+  "UUID": "11217322",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tom_ne_pouvait_pas_p.mp3",
+  "question": "Tom ne pouvait pas parler.",
+  "response": "",
+  "UUID": "7414838",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Courage_.mp3",
+  "question": "Courage.",
+  "response": "",
+  "UUID": "9945171",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Es_tu_optimiste__.mp3",
+  "question": "Es-tu optimiste ?",
+  "response": "",
+  "UUID": "7414689",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Nous_sommes_difficil.mp3",
+  "question": "Nous sommes difficiles à table.",
+  "response": "",
+  "UUID": "9987155",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_encore_mal_aux_.mp3",
+  "question": "J'ai encore mal aux pieds.",
+  "response": "",
+  "UUID": "10599310",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Exige_le_meilleur_.mp3",
+  "question": "Exige le meilleur.",
+  "response": "",
+  "UUID": "11229459",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_dormi_comme_une.mp3",
+  "question": "J'ai dormi comme une souche.",
+  "response": "",
+  "UUID": "10630575",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_voulais_t_appeler.mp3",
+  "question": "Je voulais t'appeler.",
+  "response": "",
+  "UUID": "11335180",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Nous_n_avons_jamais_.mp3",
+  "question": "Nous n'avons jamais perdu espoir.",
+  "response": "",
+  "UUID": "11188899",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Boutonne_ton_manteau.mp3",
+  "question": "Boutonne ton manteau.",
+  "response": "",
+  "UUID": "7745776",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/N_est_ce_pas_exact__.mp3",
+  "question": "N'est-ce pas exact ?",
+  "response": "",
+  "UUID": "10969237",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Le_câble_s_est_cassé.mp3",
+  "question": "Le câble s'est cassé net.",
+  "response": "",
+  "UUID": "10881390",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ce_n_est_pas_de_sa_f.mp3",
+  "question": "Ce n'est pas de sa faute.",
+  "response": "",
+  "UUID": "10552466",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/L_étang_est_gelé_.mp3",
+  "question": "L'étang est gelé.",
+  "response": "",
+  "UUID": "10963889",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Pieutons_nous_.mp3",
+  "question": "Pieutons-nous.",
+  "response": "",
+  "UUID": "11227858",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Rends_moi_mon_stylo_.mp3",
+  "question": "Rends-moi mon stylo.",
+  "response": "",
+  "UUID": "7745775",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Vous_me_rendez_heure.mp3",
+  "question": "Vous me rendez heureux.",
+  "response": "",
+  "UUID": "7730508",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Jetons_un_œil_à_l_in.mp3",
+  "question": "Jetons un œil à l'intérieur.",
+  "response": "",
+  "UUID": "9938667",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_sais_que_je_radot.mp3",
+  "question": "Je sais que je radote.",
+  "response": "",
+  "UUID": "9824010",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Remuez_vos_orteils_.mp3",
+  "question": "Remuez vos orteils.",
+  "response": "",
+  "UUID": "9676660",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_siroté_mon_café.mp3",
+  "question": "J'ai siroté mon café.",
+  "response": "",
+  "UUID": "10465970",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_ouvert_le_capot.mp3",
+  "question": "J'ai ouvert le capot.",
+  "response": "",
+  "UUID": "9821780",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_te_sers_un_autre_.mp3",
+  "question": "Je te sers un autre verre ?",
+  "response": "",
+  "UUID": "9917115",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ne_sois_pas_si_mécha.mp3",
+  "question": "Ne sois pas si méchant.",
+  "response": "",
+  "UUID": "10779679",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/La_nourriture_est_fa.mp3",
+  "question": "La nourriture est fade.",
+  "response": "",
+  "UUID": "10498767",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ne_réveille_pas_le_b.mp3",
+  "question": "Ne réveille pas le bébé.",
+  "response": "",
+  "UUID": "11290850",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_dû_travailler_t.mp3",
+  "question": "J'ai dû travailler tard.",
+  "response": "",
+  "UUID": "11152592",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_essayé_de_m_int.mp3",
+  "question": "J'ai essayé de m'intégrer.",
+  "response": "",
+  "UUID": "9731125",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Les_grands_garçons_n.mp3",
+  "question": "Les grands garçons ne pleurent pas.",
+  "response": "",
+  "UUID": "11155463",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_marché_sur_un_c.mp3",
+  "question": "J'ai marché sur un clou.",
+  "response": "",
+  "UUID": "10802361",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Prends_un_billet_pou.mp3",
+  "question": "Prends un billet pour moi.",
+  "response": "",
+  "UUID": "11155528",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Bouche_cette_fuite_.mp3",
+  "question": "Bouche cette fuite.",
+  "response": "",
+  "UUID": "10270851",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Vous_venez_d_arriver.mp3",
+  "question": "Vous venez d'arriver ?",
+  "response": "",
+  "UUID": "10623426",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_suis_un_mec_relax_.mp3",
+  "question": "J'suis un mec relax.",
+  "response": "",
+  "UUID": "10312028",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_ne_mange_pas_de_v.mp3",
+  "question": "Je ne mange pas de volaille.",
+  "response": "",
+  "UUID": "9854079",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_serré_les_poing.mp3",
+  "question": "J'ai serré les poings.",
+  "response": "",
+  "UUID": "10638980",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_peux_poser_une_qu.mp3",
+  "question": "Je peux poser une question ?",
+  "response": "",
+  "UUID": "9729868",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_l_occasion_ou_.mp3",
+  "question": "C'est l'occasion ou jamais.",
+  "response": "",
+  "UUID": "8412131",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Aimes_tu_Mozart__.mp3",
+  "question": "Aimes-tu Mozart ?",
+  "response": "",
+  "UUID": "7416295",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Légende_cette_photo_.mp3",
+  "question": "Légende cette photo.",
+  "response": "",
+  "UUID": "10779326",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ce_sont_mes_garçons_.mp3",
+  "question": "Ce sont mes garçons.",
+  "response": "",
+  "UUID": "11155480",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Un_chien_errant_a_mo.mp3",
+  "question": "Un chien errant a mordu Tom.",
+  "response": "",
+  "UUID": "8944598",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_appelle_un_taxi_.mp3",
+  "question": "J'appelle un taxi.",
+  "response": "",
+  "UUID": "11221421",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Est_ce_que_les_rumeu.mp3",
+  "question": "Est-ce que les rumeurs sont vraies ?",
+  "response": "",
+  "UUID": "9706261",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Cela_a_demandé_un_ce.mp3",
+  "question": "Cela a demandé un certain effort.",
+  "response": "",
+  "UUID": "10965299",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_une_question_d.mp3",
+  "question": "C'est une question discutable.",
+  "response": "",
+  "UUID": "10343351",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_ne_suis_pas_un_bo.mp3",
+  "question": "Je ne suis pas un bon à rien.",
+  "response": "",
+  "UUID": "10641086",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_vais_écrire_à_Tom.mp3",
+  "question": "Je vais écrire à Tom.",
+  "response": "",
+  "UUID": "7412127",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Nous_serons_en_sécur.mp3",
+  "question": "Nous serons en sécurité ici.",
+  "response": "",
+  "UUID": "11167702",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_peur_des_souris.mp3",
+  "question": "J'ai peur des souris.",
+  "response": "",
+  "UUID": "9710652",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Elle_est_toujours_en.mp3",
+  "question": "Elle est toujours en colère ?",
+  "response": "",
+  "UUID": "11184484",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/On_se_fait_avoir_.mp3",
+  "question": "On se fait avoir.",
+  "response": "",
+  "UUID": "10851170",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tom_était_il_armé__.mp3",
+  "question": "Tom était-il armé ?",
+  "response": "",
+  "UUID": "7416306",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tu_aimes_les_oranges.mp3",
+  "question": "Tu aimes les oranges ?",
+  "response": "",
+  "UUID": "10599275",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_suis_rarement_à_l.mp3",
+  "question": "Je suis rarement à la maison.",
+  "response": "",
+  "UUID": "7414025",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Si_c_est_pas_malheur.mp3",
+  "question": "Si c'est pas malheureux.",
+  "response": "",
+  "UUID": "11228106",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_suis_ici_de_mon_p.mp3",
+  "question": "Je suis ici de mon plein gré.",
+  "response": "",
+  "UUID": "11221418",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_dans_la_Bible_.mp3",
+  "question": "C'est dans la Bible.",
+  "response": "",
+  "UUID": "10963230",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tu_es_trop_nerveux_.mp3",
+  "question": "Tu es trop nerveux.",
+  "response": "",
+  "UUID": "10932433",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Qu_est_ce_que_tu_as_.mp3",
+  "question": "Qu'est-ce que tu as, Tom ?",
+  "response": "",
+  "UUID": "7411976",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Une_demi_heure_s_est.mp3",
+  "question": "Une demi-heure s'est écoulée.",
+  "response": "",
+  "UUID": "10775998",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_cliqué_sur_le_l.mp3",
+  "question": "J'ai cliqué sur le lien.",
+  "response": "",
+  "UUID": "9699134",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ça_m_a_coûté_un_max_.mp3",
+  "question": "Ça m'a coûté un max.",
+  "response": "",
+  "UUID": "10259027",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ne_le_jette_pas_à_la.mp3",
+  "question": "Ne le jette pas à la poubelle.",
+  "response": "",
+  "UUID": "9706529",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tom_a_parlé_de_moi__.mp3",
+  "question": "Tom a parlé de moi ?",
+  "response": "",
+  "UUID": "7416304",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_veux_être_clair_.mp3",
+  "question": "Je veux être clair.",
+  "response": "",
+  "UUID": "8412122",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_crois_que_je_me_s.mp3",
+  "question": "Je crois que je me suis évanoui.",
+  "response": "",
+  "UUID": "11153554",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_effectué_de_nom.mp3",
+  "question": "J'ai effectué de nombreuses modifications.",
+  "response": "",
+  "UUID": "9738190",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_déteste_le_désert.mp3",
+  "question": "Je déteste le désert.",
+  "response": "",
+  "UUID": "7412144",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Donne_leur_mon_numér.mp3",
+  "question": "Donne-leur mon numéro.",
+  "response": "",
+  "UUID": "11147349",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Sommes_nous_de_mauva.mp3",
+  "question": "Sommes-nous de mauvais parents ?",
+  "response": "",
+  "UUID": "11166379",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_adore_camper_.mp3",
+  "question": "J'adore camper.",
+  "response": "",
+  "UUID": "11228616",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ma_stratégie_a_fonct.mp3",
+  "question": "Ma stratégie a fonctionné.",
+  "response": "",
+  "UUID": "11388554",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Cet_argent_est_à_moi.mp3",
+  "question": "Cet argent est à moi.",
+  "response": "",
+  "UUID": "11185111",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tenez_vous_en_aux_fa.mp3",
+  "question": "Tenez-vous-en aux faits.",
+  "response": "",
+  "UUID": "10913383",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Passe_moi_l_eau_.mp3",
+  "question": "Passe-moi l'eau.",
+  "response": "",
+  "UUID": "11178988",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_encore_dans_le.mp3",
+  "question": "C'est encore dans le flou.",
+  "response": "",
+  "UUID": "11201828",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_l_ai_vérifié_deux.mp3",
+  "question": "Je l'ai vérifié deux fois.",
+  "response": "",
+  "UUID": "11182801",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Où_est_la_preuve__.mp3",
+  "question": "Où est la preuve ?",
+  "response": "",
+  "UUID": "7410778",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_mon_seul_espoi.mp3",
+  "question": "C'est mon seul espoir.",
+  "response": "",
+  "UUID": "7416475",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ne_sois_pas_ingrat_.mp3",
+  "question": "Ne sois pas ingrat.",
+  "response": "",
+  "UUID": "10779624",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_suis_tout_le_temp.mp3",
+  "question": "Je suis tout le temps nerveux.",
+  "response": "",
+  "UUID": "11181108",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_aime_bien_ça_comme.mp3",
+  "question": "J'aime bien ça comme ça.",
+  "response": "",
+  "UUID": "10531306",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Le_football_est_un_s.mp3",
+  "question": "Le football est un sport.",
+  "response": "",
+  "UUID": "10672824",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Il_n_y_a_pas_de_plan.mp3",
+  "question": "Il n'y a pas de plan B.",
+  "response": "",
+  "UUID": "10491526",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_dormi_comme_un_.mp3",
+  "question": "J'ai dormi comme un loir.",
+  "response": "",
+  "UUID": "10630577",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_vous_écrirai_.mp3",
+  "question": "Je vous écrirai.",
+  "response": "",
+  "UUID": "10946421",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_n_avais_pas_de_tr.mp3",
+  "question": "Je n'avais pas de travail.",
+  "response": "",
+  "UUID": "10776594",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_un_point_discu.mp3",
+  "question": "C'est un point discutable.",
+  "response": "",
+  "UUID": "10343372",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_grincé_des_dent.mp3",
+  "question": "J'ai grincé des dents.",
+  "response": "",
+  "UUID": "9978153",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_fait_la_connais.mp3",
+  "question": "J'ai fait la connaissance d'une femme agréable.",
+  "response": "",
+  "UUID": "7411993",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ils_sont_canadiens_.mp3",
+  "question": "Ils sont canadiens.",
+  "response": "",
+  "UUID": "7414877",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Vos_blagues_me_manqu.mp3",
+  "question": "Vos blagues me manquent.",
+  "response": "",
+  "UUID": "10713066",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tom_a_dîné__.mp3",
+  "question": "Tom a dîné ?",
+  "response": "",
+  "UUID": "7416302",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_était_assommant_.mp3",
+  "question": "C'était assommant.",
+  "response": "",
+  "UUID": "9943406",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Quel_était_ton_trava.mp3",
+  "question": "Quel était ton travail ?",
+  "response": "",
+  "UUID": "10649056",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Mon_bureau_est_minus.mp3",
+  "question": "Mon bureau est minuscule.",
+  "response": "",
+  "UUID": "11145680",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Mes_mains_étaient_en.mp3",
+  "question": "Mes mains étaient engourdies.",
+  "response": "",
+  "UUID": "7410824",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Voici_la_solution_.mp3",
+  "question": "Voici la solution.",
+  "response": "",
+  "UUID": "11166558",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tu_es_un_boulet_.mp3",
+  "question": "Tu es un boulet.",
+  "response": "",
+  "UUID": "10351328",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ce_couteau_est_mal_a.mp3",
+  "question": "Ce couteau est mal aiguisé.",
+  "response": "",
+  "UUID": "10968775",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Nous_vivons_dans_la_.mp3",
+  "question": "Nous vivons dans la misère.",
+  "response": "",
+  "UUID": "10649059",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tu_as_l_air_inquiet_.mp3",
+  "question": "Tu as l'air inquiet.",
+  "response": "",
+  "UUID": "10713132",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/On_m_a_privé_de_sort.mp3",
+  "question": "On m'a privé de sortie.",
+  "response": "",
+  "UUID": "9978110",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_pleuré_à_chaude.mp3",
+  "question": "J'ai pleuré à chaudes larmes.",
+  "response": "",
+  "UUID": "9710644",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_vous_connais_à_pe.mp3",
+  "question": "Je vous connais à peine.",
+  "response": "",
+  "UUID": "10718010",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Vous_pouvez_régler_ç.mp3",
+  "question": "Vous pouvez régler ça ?",
+  "response": "",
+  "UUID": "7415150",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tu_y_seras__.mp3",
+  "question": "Tu y seras ?",
+  "response": "",
+  "UUID": "11171612",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Faites_attention_aux.mp3",
+  "question": "Faites attention aux abeilles.",
+  "response": "",
+  "UUID": "10604682",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_dans_le_coffre.mp3",
+  "question": "C'est dans le coffre.",
+  "response": "",
+  "UUID": "10755329",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_chaud__pas_fro.mp3",
+  "question": "C'est chaud, pas froid.",
+  "response": "",
+  "UUID": "11246346",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Les_opposés_s_attire.mp3",
+  "question": "Les opposés s'attirent.",
+  "response": "",
+  "UUID": "7415361",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Pousse_toi__s_il_te_.mp3",
+  "question": "Pousse-toi, s'il te plaît.",
+  "response": "",
+  "UUID": "10970481",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Donne_moi_ma_part_.mp3",
+  "question": "Donne-moi ma part.",
+  "response": "",
+  "UUID": "10725291",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/On_doit_corriger_ça_.mp3",
+  "question": "On doit corriger ça.",
+  "response": "",
+  "UUID": "10504638",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/La_nourriture_est_in.mp3",
+  "question": "La nourriture est insipide.",
+  "response": "",
+  "UUID": "10498768",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_entendu_des_cou.mp3",
+  "question": "J'ai entendu des coups de feu.",
+  "response": "",
+  "UUID": "7411787",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ça_fait_partie_de_mo.mp3",
+  "question": "Ça fait partie de mon travail.",
+  "response": "",
+  "UUID": "11183484",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_eu_une_semaine_.mp3",
+  "question": "J'ai eu une semaine mouvementée.",
+  "response": "",
+  "UUID": "10202439",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Est_ce_la_vérité__.mp3",
+  "question": "Est-ce la vérité ?",
+  "response": "",
+  "UUID": "11166492",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_dormi_jusqu_à_l.mp3",
+  "question": "J'ai dormi jusqu'à l'aube.",
+  "response": "",
+  "UUID": "9953287",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Tu_devrais_l_acheter.mp3",
+  "question": "Tu devrais l'acheter.",
+  "response": "",
+  "UUID": "11232477",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Poursuis_tes_rêves_.mp3",
+  "question": "Poursuis tes rêves.",
+  "response": "",
+  "UUID": "7415071",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ça_me_manque_déjà_.mp3",
+  "question": "Ça me manque déjà.",
+  "response": "",
+  "UUID": "8409849",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_l_heure_de_dor.mp3",
+  "question": "C'est l'heure de dormir.",
+  "response": "",
+  "UUID": "10749642",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/On_est_sur_le_point_.mp3",
+  "question": "On est sur le point de manger.",
+  "response": "",
+  "UUID": "11470681",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_branché_la_télé.mp3",
+  "question": "J'ai branché la télé.",
+  "response": "",
+  "UUID": "10270861",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Vous_n_êtes_pas_de_l.mp3",
+  "question": "Vous n'êtes pas de la même famille ?",
+  "response": "",
+  "UUID": "11228614",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Peut_on_se_le_permet.mp3",
+  "question": "Peut-on se le permettre ?",
+  "response": "",
+  "UUID": "11189979",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Nous_n_oublierons_ja.mp3",
+  "question": "Nous n'oublierons jamais.",
+  "response": "",
+  "UUID": "10540663",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ça_m_a_coûté_un_paqu.mp3",
+  "question": "Ça m'a coûté un paquet de fric.",
+  "response": "",
+  "UUID": "10259024",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_fait_réparer_ma.mp3",
+  "question": "J'ai fait réparer ma voiture.",
+  "response": "",
+  "UUID": "11179091",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/La_rivière_s_est_ass.mp3",
+  "question": "La rivière s'est asséchée.",
+  "response": "",
+  "UUID": "10767899",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_déteste_les_entre.mp3",
+  "question": "Je déteste les entretiens.",
+  "response": "",
+  "UUID": "7416365",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_ne_pouvais_pas_re.mp3",
+  "question": "Je ne pouvais pas refuser.",
+  "response": "",
+  "UUID": "9079698",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Mon_patron_est_un_co.mp3",
+  "question": "Mon patron est un connard.",
+  "response": "",
+  "UUID": "11145705",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_espère_que_ça_suff.mp3",
+  "question": "J'espère que ça suffit.",
+  "response": "",
+  "UUID": "7414873",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_vais_le_faire_à_l.mp3",
+  "question": "Je vais le faire à la main.",
+  "response": "",
+  "UUID": "10940173",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Ils_ne_nous_ont_pas_.mp3",
+  "question": "Ils ne nous ont pas vus.",
+  "response": "",
+  "UUID": "11052468",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Comment_vont_ils_s_e.mp3",
+  "question": "Comment vont-ils s'en sortir ?",
+  "response": "",
+  "UUID": "10768438",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_un_mauvais_exe.mp3",
+  "question": "C'est un mauvais exemple.",
+  "response": "",
+  "UUID": "7414881",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/La_bière_se_boit_fra.mp3",
+  "question": "La bière se boit fraîche.",
+  "response": "",
+  "UUID": "10496991",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/D_habitude__je_vote_.mp3",
+  "question": "D'habitude, je vote.",
+  "response": "",
+  "UUID": "8435298",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Le_temps_est_couvert.mp3",
+  "question": "Le temps est couvert aujourd'hui.",
+  "response": "",
+  "UUID": "10371106",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_acheté_de_la_pi.mp3",
+  "question": "J'ai acheté de la pizza.",
+  "response": "",
+  "UUID": "11039786",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Je_me_sentais_comme_.mp3",
+  "question": "Je me sentais comme un abruti.",
+  "response": "",
+  "UUID": "7744713",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Viens__assieds_toi_s.mp3",
+  "question": "Viens, assieds-toi sur mes genoux.",
+  "response": "",
+  "UUID": "8961189",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/Notre_but_est_de_gag.mp3",
+  "question": "Notre but est de gagner.",
+  "response": "",
+  "UUID": "11190208",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_vu_votre_dossie.mp3",
+  "question": "J'ai vu votre dossier.",
+  "response": "",
+  "UUID": "11146448",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_pris_l_ascenseu.mp3",
+  "question": "J'ai pris l'ascenseur.",
+  "response": "",
+  "UUID": "11381610",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_élagué_l_arbre_.mp3",
+  "question": "J'ai élagué l'arbre.",
+  "response": "",
+  "UUID": "8938888",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_encore_mal_aux_.mp3",
+  "question": "J'ai encore mal aux jambes.",
+  "response": "",
+  "UUID": "11153372",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/J_ai_ton_numéro_.mp3",
+  "question": "J'ai ton numéro.",
+  "response": "",
+  "UUID": "10971494",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+},
+{
+  "audio_path": "/media/ron/Ronzz_Core/nextCloudSync/mindiverse-life/scripts/python/src/ronzz_tool/tatoeba_fr_audio/C_est_chez_toi__.mp3",
+  "question": "C'est chez toi ?",
+  "response": "",
+  "UUID": "11181076",
+  "creation_date": null,
+  "start_time_ms": null,
+  "end_time_ms": null
+}
+],
+"current_index": 0
+}

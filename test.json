@@ -1,0 +1,359 @@
+[
+    {
+        "UUID": "26222294-0ffb-410a-a923-d73f860b9086",
+        "media_file": "assets/audio/Je_te_raconterai.mp3",
+        "question": "(?)",
+        "response": "Je te raconterai",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "fb8c2302-2b67-4378-9a6e-abc8c5ad56e1",
+        "media_file": "assets/audio/À_plus.mp3",
+        "question": "(?)",
+        "response": "À plus",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "3396cf65-3f40-414d-a81e-ba3b3a58596e",
+        "media_file": "assets/audio/évidemment.mp3",
+        "question": "(?)",
+        "response": "évidemment",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "e34094ac-62fe-49fd-97f4-57373fa08d27",
+        "media_file": "assets/audio/Je_partirai_jamais.mp3",
+        "question": "(?)",
+        "response": "Je partirai jamais",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "37ff9ac2-f5dd-4442-87e1-d8a929eac019",
+        "media_file": "assets/audio/Je_t’en_supplie.mp3",
+        "question": "(?)",
+        "response": "Je t’en supplie",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "5269a79c-ec64-465b-afe1-c97a3cd4eda5",
+        "media_file": "assets/audio/Je_vois_pas_pourquoi.mp3",
+        "question": "(?)",
+        "response": "Je vois pas pourquoi ça m’énerverait pas",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "9a6dd74b-e818-4168-a83f-3e40a0cc967e",
+        "media_file": "assets/audio/fragile.mp3",
+        "question": "(?)",
+        "response": "fragile",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "24bd7c67-a484-4fd9-9dca-4aa0061b21e6",
+        "media_file": "assets/audio/embrasser.mp3",
+        "question": "(?)",
+        "response": "embrasser",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "7815385d-7129-4ae9-91ac-49289d9a29d2",
+        "media_file": "assets/audio/En_marre.mp3",
+        "question": "(?)",
+        "response": "En marre",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "f7bc0227-f675-4851-920f-ac05e0c5bf9d",
+        "media_file": "assets/audio/on_se_découvre.mp3",
+        "question": "(?)",
+        "response": "on se découvre",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "50ecfe1b-6883-4977-afc0-cb53a8fbe51c",
+        "media_file": "assets/audio/arrêt_de_cogiter_tro.mp3",
+        "question": "(?)",
+        "response": "arrêt de cogiter trop",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "e99adc43-90f7-4d7a-8382-e057634580eb",
+        "media_file": "assets/audio/Tout_ne_doit_pas_col.mp3",
+        "question": "(?)",
+        "response": "Tout ne doit pas coller à ton agenda",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "5f81caab-7418-4983-8401-910dd3a209f8",
+        "media_file": "assets/audio/ça_me_fait_plaisir_d.mp3",
+        "question": "(?)",
+        "response": "ça me fait plaisir de te voir",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "22780af0-12a6-43af-9ffd-c32b9ea2ebda",
+        "media_file": "assets/audio/ça_fait_longtemps.mp3",
+        "question": "(?)",
+        "response": "ça fait longtemps",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "78cddf72-5fe5-41a8-96b1-01dea04ffe55",
+        "media_file": "assets/audio/Entre,_je_vais_te_pr.mp3",
+        "question": "(?)",
+        "response": "Entre, je vais te présenter",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "6310ba6e-4380-424c-ba24-d88082677d98",
+        "media_file": "assets/audio/un_hasard_formidable.mp3",
+        "question": "(?)",
+        "response": "un hasard formidable",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "06f242b7-de84-4ee2-b87c-1f8185b993a2",
+        "media_file": "assets/audio/à_l’esprit.mp3",
+        "question": "(?)",
+        "response": "à l’esprit",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "53db5d13-1cbe-42d2-891d-429346ddbfdb",
+        "media_file": "assets/audio/ravissant.mp3",
+        "question": "(?)",
+        "response": "ravissant",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "085a4475-e445-4934-b388-998f45ab6634",
+        "media_file": "assets/audio/conjoint.mp3",
+        "question": "(?)",
+        "response": "conjoint",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "d456d20b-4870-49a9-8187-549086931620",
+        "media_file": "assets/audio/épouse.mp3",
+        "question": "(?)",
+        "response": "épouse",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "c9184da7-4d0f-48a9-9989-78bf912e140d",
+        "media_file": "assets/audio/il_délire.mp3",
+        "question": "(?)",
+        "response": "il délire",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "a0ed5f7b-5b85-45fc-9308-17fffea4fc21",
+        "media_file": "assets/audio/on_arrive.mp3",
+        "question": "(?)",
+        "response": "on arrive",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "5e4b8c43-767c-4105-bd5e-85370787986d",
+        "media_file": "assets/audio/périmée.mp3",
+        "question": "(?)",
+        "response": "périmée",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "a9eb41ba-86b3-4d22-999f-c8cf49961855",
+        "media_file": "assets/audio/on_voit_jamais_le_te.mp3",
+        "question": "(?)",
+        "response": "on voit jamais le temps passer",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "a8f17e4a-8826-491b-8a38-317a3cd49e9f",
+        "media_file": "assets/audio/cinglée.mp3",
+        "question": "(?)",
+        "response": "cinglée",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "cad4bc12-81fd-4c8e-a403-170a44275e07",
+        "media_file": "assets/audio/fou_.mp3",
+        "question": "(?)",
+        "response": "fou ",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "8158bb3a-b3d5-4186-9c9a-7daf13d8a82f",
+        "media_file": "assets/audio/folle.mp3",
+        "question": "(?)",
+        "response": "folle",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "49d5c8c9-655a-470c-9a2e-8800b455e96f",
+        "media_file": "assets/audio/régenter.mp3",
+        "question": "(?)",
+        "response": "régenter",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "2f7d1027-2941-4835-952c-42f2ba780ad3",
+        "media_file": "assets/audio/une_antenne.mp3",
+        "question": "(?)",
+        "response": "une antenne",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "4cff6f2e-c7bd-4ce5-8bef-d6e9de409252",
+        "media_file": "assets/audio/un_colloque.mp3",
+        "question": "(?)",
+        "response": "un colloque",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "a261c161-9109-43c4-91d8-811281f2ff52",
+        "media_file": "assets/audio/majestueuse.mp3",
+        "question": "(?)",
+        "response": "majestueuse",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "b2cf1de8-2b4c-4abf-9557-2a1737d92f18",
+        "media_file": "assets/audio/craqué.mp3",
+        "question": "(?)",
+        "response": "craqué",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "e75b3f7c-1074-49d9-a5f4-a4d60ebdb051",
+        "media_file": "assets/audio/vachement.mp3",
+        "question": "(?)",
+        "response": "vachement",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "838f1998-a123-4076-9259-ae476a77ba4b",
+        "media_file": "assets/audio/méchamment.mp3",
+        "question": "(?)",
+        "response": "méchamment",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "0e5ce026-7ab8-4afa-9329-7c892bf025ba",
+        "media_file": "assets/audio/un_vertige.mp3",
+        "question": "(?)",
+        "response": "un vertige",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "fc0e2d7c-c253-4f5a-8d85-561b336bdfa8",
+        "media_file": "assets/audio/interner.mp3",
+        "question": "(?)",
+        "response": "interner",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "02b5fe1b-e9a8-4617-9a4b-ac88f3636236",
+        "media_file": "assets/audio/sangloter.mp3",
+        "question": "(?)",
+        "response": "sangloter",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "ff5dace2-ede3-488d-ad93-8e92b47fb34a",
+        "media_file": "assets/audio/klaxon.mp3",
+        "question": "(?)",
+        "response": "klaxon",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "163bbe2e-9519-4e1f-a8ab-06700d18c68c",
+        "media_file": "assets/audio/Madeleine_Collins.mp3",
+        "question": "(?)",
+        "response": "Madeleine Collins",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "4a8e855f-9c4f-41d5-9c51-2df4d834430d",
+        "media_file": "assets/audio/un_film.mp3",
+        "question": "(?)",
+        "response": "un film",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "3011332a-fa48-4378-8586-be42484dda17",
+        "media_file": "assets/audio/dispersée.mp3",
+        "question": "(?)",
+        "response": "dispersée",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "8a965ac7-0403-497c-806e-a66584cc3a41",
+        "media_file": "assets/audio/Nous_entamons_l'anné.mp3",
+        "question": "(?)",
+        "response": "Nous entamons l'année 2025 avec espoir et confiance en Dieu.",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "37948d01-d47c-4da5-86b1-4b7ef79ab185",
+        "media_file": "assets/audio/étendre_la_fonctionn.mp3",
+        "question": "(?)",
+        "response": "étendre la fonctionnalité",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "879da3ce-c021-47f7-95ab-adac63552d3d",
+        "media_file": "assets/audio/se_concrétiser.mp3",
+        "question": "(?)",
+        "response": "se concrétiser",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "82819f30-c3a9-4fe3-916a-380f2f387136",
+        "media_file": "assets/audio/surchargé.mp3",
+        "question": "(?)",
+        "response": "surchargé",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "0a0e3744-ad78-45d5-9c2d-20734c9a2e73",
+        "media_file": "assets/audio/au_cours_de_l’année_.mp3",
+        "question": "(?)",
+        "response": "au cours de l’année écoulée",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "a827b977-03df-4559-a8c2-4fe48117a99f",
+        "media_file": "assets/audio/n’hésiter_pas.mp3",
+        "question": "(?)",
+        "response": "n’hésiter pas",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "9831d9c5-3632-4236-98de-4d4e0966c57f",
+        "media_file": "assets/audio/ça_me_gêne.mp3",
+        "question": "(?)",
+        "response": "ça me gêne",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "c7d00b82-8ad9-4e44-9325-362d3e8ca070",
+        "media_file": "assets/audio/une_erreur_est_surve.mp3",
+        "question": "(?)",
+        "response": "une erreur est survenue lors de la lecture de la vidéo",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "19eec234-1fa3-4349-8f47-607e98e8a225",
+        "media_file": "assets/audio/Le_Troc_et_Puces.mp3",
+        "question": "(?)",
+        "response": "Le Troc et Puces",
+        "creation_date": "2025-05-04"
+    },
+    {
+        "UUID": "a84ba78d-5453-4f8d-8e85-96082bdf3244",
+        "media_file": "assets/audio/Je_dis_ça_pour_rigol.mp3",
+        "question": "(?)",
+        "response": "Je dis ça pour rigoler",
+        "creation_date": "2025-05-04"
+    }
+]

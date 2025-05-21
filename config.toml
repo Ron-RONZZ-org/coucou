@@ -1,0 +1,22 @@
+font_size = 21
+username = "Ron!"
+language_code = "fr"
+database_path = "history-fr.db"
+# database_path = "tatoeba-fr.db"
+
+[default_moods]
+Infinitif = true
+Indicatif = true
+Conditionnel = false
+Subjonctif = false
+Imperatif = false
+Participe = true
+
+[default_tenses]
+"Infinitif Présent" = true
+"Présent" = true
+"Passé Simple" = true
+Imparfait = true
+Futur = true
+"Participe Présent" = false
+"Participe Passé" = true

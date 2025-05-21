@@ -1,0 +1,1 @@
+En entendant cette nouvelle inattendue, il resta un moment troublé, cherchant à comprendre ce qui venait de se passer.
