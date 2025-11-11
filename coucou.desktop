@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Coucou
+Name[fr]=Coucou
+Comment=Language learning word bank application
+Comment[fr]=Application de banque de mots pour l'apprentissage des langues
+Exec=/usr/local/bin/coucou/coucou
+Icon=coucou
+Terminal=false
+Categories=Education;Languages;
+Keywords=language;learning;vocabulary;french;flashcard;
+Keywords[fr]=langue;apprentissage;vocabulaire;français;
+StartupNotify=true
+StartupWMClass=coucou
