@@ -7,16 +7,15 @@ __pycache__/
 *.egg-info/
 dist/
 build/
-*.spec
 venv/
 env/
 ENV/
 
 # PyInstaller
-*.spec
 build/
 dist/
 *.manifest
+# Keep coucou.spec - it's our build configuration
 
 # Nuitka
 *.build/
