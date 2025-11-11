@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+ENV/
+
+# PyInstaller
+build/
+dist/
+*.manifest
+# Keep coucou.spec - it's our build configuration
+
+# Nuitka
+*.build/
+*.dist/
+*.onefile-build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coucou specific
+*.db
+*.log
+nohup.out
+*.csv~
+.~lock.*
+temp.json
+temp.txt
+test.json
+usage_stats.json
+assets/audio/*.mp3
+config.toml.bak
+
+# Build artifacts
+coucou-linux-*.tar.gz
+*.deb
+coucou-deb/

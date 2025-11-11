@@ -19,6 +19,7 @@ Coucou is a multi-platform minimalist FOSS wordbank for language learning.
     - Alpha
         - ✅All main functionalities work.
         - ❗No build version yet. Running from python source code is adequately fast and resource efficient, even on very low-spec machines (2GB RAM).
+        - 📦 For compiling to binary on Debian/Linux, see [Debian-Linux-Compile.md](Debian-Linux-Compile.md)
     - To do
         - Language support (English planned, contributions on other languages welcome)
         - slightly prettier UI design
